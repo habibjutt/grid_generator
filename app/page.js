@@ -63,7 +63,7 @@ export default function Home() {
             Powerful Layout Tools
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Whether you're building a simple card layout or a complex responsive design, 
+            Whether you are building a simple card layout or a complex responsive design, 
             our tools help you create perfect layouts with clean, production-ready code.
           </p>
         </div>
